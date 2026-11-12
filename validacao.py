@@ -1,4 +1,4 @@
-# Valida o e-mail informando no login
+# Teste
 def email_valido(email):
   if not email:
     return False
